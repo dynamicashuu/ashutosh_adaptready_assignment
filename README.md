@@ -15,7 +15,7 @@ Assumptions
 
 Clone the Repository
 
-git clone https://github.com/your-username/oil-temperature-forecasting.git
+git clone (https://github.com/dynamicashuu/ashutosh_adaptready_assignment).git
 cd oil-temperature-forecasting
 
 unzip the zip file :
